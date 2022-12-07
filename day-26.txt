@@ -1,0 +1,8 @@
+Web Development						Date:07/12/2022
+Day-26
+
+Start New:
+tarnory Oparetor:
+(condition)?'True':'False';
+$p=0
+eco(&p>=40)?'pass':'fail';
